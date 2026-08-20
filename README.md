@@ -1,4 +1,8 @@
-# copilottraining-20260820-095130
+# mbuddhineni
+
+![Visibility](https://img.shields.io/badge/visibility-public-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/mbuddhineni/mbuddhineni)
+![Top Language](https://img.shields.io/github/languages/top/mbuddhineni/mbuddhineni)
 
 Starter repository created with GitHub CLI and configured to use SSH.
 
